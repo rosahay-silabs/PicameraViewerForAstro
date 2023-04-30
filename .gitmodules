@@ -1,0 +1,3 @@
+[submodule "dcraw"]
+	path = dcraw
+	url = git@github.com:6by9/dcraw.git
